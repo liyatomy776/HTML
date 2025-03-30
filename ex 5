@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avalon - Myth or Truth?</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e6e6fa;
+            color: #333;
+        }
+        .header {
+            background: #4b0082;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #008000;
+            text-align: center;
+        }
+        h2 {
+            color: #8b0000;
+            font-size: 26px;
+            border-bottom: 3px solid #8b0000;
+            padding-bottom: 5px;
+        }
+        p {
+            font-size: 20px;
+            line-height: 1.8;
+            color: #444;
+        }
+        blockquote {
+            font-style: italic;
+            font-weight: bold;
+            color: #4b0082;
+            background: #f8f8ff;
+            padding: 10px;
+            border-left: 5px solid #8b0000;
+            margin: 10px 0;
+        }
+        .image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .image-container img {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">Avalon - Myth or Truth?</div>
+    <div class="container">
+        <h2>Introduction</h2>
+        <p><blockquote>There is a fine line between truth and lie, love and hate, good and evil. Our beliefs decide where we stand; after all, our ancestors used to say that no two people are the same.</blockquote></p>
+        <p>Avalon had always been a mystery to me. For a kid who lived for stories that took her to different worlds, Avalon was everything that I could dream of. As I grew up, my thought process changed, but my curiosity never died, and it gave me a push to dive deeper into the stories that revolved around this mythical place that, according to some, still exists—always hidden from the eyes of us normal humans.</p>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCMbmnXnFBY9Cq92B4T9OijUDHr5_4JuTd9r5NCY7WsZzUX0" alt="Avalon Image">
+        </div>
+    </div>
+</body>
+</html>
