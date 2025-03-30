@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amal Jyothi College of Engineering</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #005a9c; color: white; padding: 15px; text-align: center; }
+        nav ul { list-style-type: none; padding: 0; }
+        nav ul li { display: inline; margin: 10px; }
+        nav ul li a { text-decoration: none; color: #005a9c; font-weight: bold; }
+        section { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; }
+        footer { text-align: center; padding: 10px; background-color: #005a9c; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Amal Jyothi College of Engineering, Kanjirappally</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#courses">Courses</a></li>
+            <li><a href="#departments">Departments</a></li>
+            <li><a href="#facilities">Facilities</a></li>
+            <li><a href="#library">Library</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>About the College</h2>
+        <p>Amal Jyothi College of Engineering is a premier engineering institution located in Kanjirappally, Kerala, known for academic excellence and cutting-edge research.</p>
+    </section>
+    <section id="courses">
+        <h2>Courses Offered</h2>
+        <ul>
+            <li>B.Tech in Computer Science and Engineering</li>
+            <li>B.Tech in Mechanical Engineering</li>
+            <li>B.Tech in Electrical and Electronics Engineering</li>
+            <li>B.Tech in Civil Engineering</li>
+            <li>M.Tech Programs</li>
+            <li>MCA and MBA Programs</li>
+        </ul>
+    </section>
+    <section id="departments">
+        <h2>Departments</h2>
+        <ul>
+            <li>Department of Computer Science</li>
+            <li>Department of Mechanical Engineering</li>
+            <li>Department of Electrical and Electronics</li>
+            <li>Department of Civil Engineering</li>
+            <li>Department of Science and Humanities</li>
+        </ul>
+    </section>
+    <section id="facilities">
+        <h2>Facilities</h2>
+        <ul>
+            <li>State-of-the-art Laboratories</li>
+            <li>Hostel and Accommodation</li>
+            <li>Sports Complex</li>
+            <li>Cafeteria</li>
+            <li>Wi-Fi Campus</li>
+        </ul>
+    </section>
+    <section id="library">
+        <h2>Library</h2>
+        <p>The college has a well-equipped library with thousands of books, journals, and digital resources accessible to students and faculty.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Amal Jyothi College of Engineering | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
