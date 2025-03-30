@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kidangoor - My Hometown</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5dc;
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #2e8b57;
+            font-size: 36px;
+        }
+        h2 {
+            color: #8b0000;
+            font-size: 24px;
+            border-bottom: 2px solid #8b0000;
+            padding-bottom: 5px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin: 15px 0;
+        }
+        .location {
+            font-size: 18px;
+            margin-top: 15px;
+        }
+        .location a {
+            color: #d32f2f;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .location a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Kidangoor</h1>
+        <img src="https://lh5.googleusercontent.com/p/AF1QipM1NUrmrPPI1IEUzKK6jhrxKiTbbAnoyCoVkJwc=w675-h390-n-k-no" alt="Kidangoor Image">
+        
+        <h2>About Kidangoor</h2>
+        <p>Kidangoor is a beautiful town near Pala in Kottayam, Kerala, filled with lush greenery, scenic landscapes, and rich cultural heritage. It is known for its warm people and vibrant traditions.</p>
+        
+        <h2>Famous Attractions</h2>
+        <ul>
+            <li>Kidangoor Subramanya Swami Temple</li>
+            <li>Scenic Waterways and Green Fields</li>
+            <li>Historic Landmarks</li>
+            <li>Traditional Markets</li>
+        </ul>
+        
+        <h2>Local Cuisine</h2>
+        <p>The local cuisine is a blend of spicy, sweet, and savory flavors. Must-try dishes include traditional Kerala meals, seafood specialties, and delicious desserts.</p>
+        
+        <h2>Location</h2>
+        <p class="location">Check out Kidangoor on Google Maps: <a href="https://maps.app.goo.gl/kt9Qfjitd2BEZ8rw7" target="_blank">View Location</a></p>
+    </div>
+</body>
+</html>
