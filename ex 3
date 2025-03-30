@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; background-color: #e3f2fd; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); text-align: center; }
+        h1 { color: #0d47a1; }
+        h2 { color: #1565c0; border-bottom: 2px solid #1565c0; padding-bottom: 5px; }
+        p { font-size: 16px; color: #333; }
+        a { color: #d32f2f; text-decoration: none; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+        ul { list-style-type: square; text-align: left; }
+        img { border-radius: 50%; width: 150px; height: 150px; margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQEeWZdPdGWFyQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728402542681?e=1749081600&v=beta&t=1tyE2f-Gkf6Ad7LAQJMKaxS2F-U2EArfkJK10pUD4oo" alt="Profile Photo">
+        <h1>Liya Tomy</h1>
+        <p><strong>Email:</strong> <a href="mailto:liyatomy776@gmail.com">liyatomy776@gmail.com</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/liya-tomy-b79061327" target="_blank">linkedin.com/in/liya-tomy-b79061327</a></p>
+        
+        <h2>Summary</h2>
+        <p>First-year Computer Science Engineering student at Amal Jyothi College of Engineering, passionate about coding and UI design.</p>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>UI Design</li>
+            <li>Problem-Solving</li>
+        </ul>
+        
+        <h2>Education</h2>
+        <p><strong>Amal Jyothi College of Engineering, Kanjirappally</strong> - B.Tech in Computer Science (Ongoing)</p>
+        <p><strong>Jawahar Navodaya Vidyalaya, Kottayam</strong></p>
+        <ul>
+            <li>10th Board: 93.6%</li>
+            <li>12th Board: 93.4%</li>
+        </ul>
+        
+        <h2>Languages</h2>
+        <ul>
+            <li>Malayalam</li>
+            <li>English</li>
+        </ul>
+        
+        <h2>Contact</h2>
+        <p>Feel free to reach out via <a href="mailto:liyatomy776@gmail.com">email</a> or visit my <a href="https://www.linkedin.com/in/liya-tomy-b79061327" target="_blank">LinkedIn profile</a>.</p>
+    </div>
+</body>
+</html>
