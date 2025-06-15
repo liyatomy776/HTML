@@ -68,12 +68,16 @@
 <body>
     <div class="header">Avalon - Myth or Truth?</div>
     <div class="container">
-        <h2>Introduction</h2>
+        <h2>The starting point</h2>
         <p><blockquote>There is a fine line between truth and lie, love and hate, good and evil. Our beliefs decide where we stand; after all, our ancestors used to say that no two people are the same.</blockquote></p>
         <p>Avalon had always been a mystery to me. For a kid who lived for stories that took her to different worlds, Avalon was everything that I could dream of. As I grew up, my thought process changed, but my curiosity never died, and it gave me a push to dive deeper into the stories that revolved around this mythical place that, according to some, still exists—always hidden from the eyes of us normal humans.</p>
         <div class="image-container">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCMbmnXnFBY9Cq92B4T9OijUDHr5_4JuTd9r5NCY7WsZzUX0" alt="Avalon Image">
         </div>
+        <h2>History</h2>
+        <p>The name Avalon first appeared in Geoffrey of Monmouth's Historia Regum Britanniae (c. 1136), where it is described as the island where Arthur was taken for healing. In his Vita Merlini (c. 1150), he further describes it as the "Island of Apples"</p>
+        <h2>Symbolism</h2>
+        <p>Avalon represents a place of magic, utopia, and healing, often symbolizing a transition between the mortal world and the mystical realm. It also plays a crucial role in the Arthurian legend as the place where Arthur's sword, Excalibur, was forged and where he was taken for his final rest.</p> 
     </div>
 </body>
 </html>
